@@ -1,0 +1,42 @@
+ Hi good morning/afternoon/evening,
+
+* My self <yourname> currently i am working with <ur compnay name> as a software test engineer. I have total 4.2 years of experience in testing field, in which 4.2 years in manual testing and 3.5 years in automation testing.
+
+* I have strong experience in automation testing using ( java, selenium and testng) / (Python, Selenium and pytest) 
+
+* I have Strong knowledge in both TDD ( Test Data Driven ) and BDD ( Behaviour Data Driven) Framework  
+
+* As part of  manual testing i am involving in fuctional testing like performing smoke testing, system testing, sanity testing, regression testing 
+
+*I have good experience in API testing using postman tool and also performed API automation too.
+
+*I have good knowledge on database testing using sql and currently working in agile scrum methodolgy
+
+
+About project
+-------------
+Currently working in skilshoppy project  which is basically is a digital platform for selling and buynig digital components online. Its ecomm domian based web application. Anyone can register,login and they can sell and buy any digital projects like web apps,mobilde apps etc.It contains mainly features like customer profile, product catlogue with filter, add to cart, order process, payment process, reviews etc.In this project i performing both manual and automation testing.
+
+Roles & Responcbilities
+------------------------
+
+* I am involve in developing test scenarios,testcases and reviewing documents.
+* I am involve in executing testcases and verifing actual results with expected results.
+* I am involve in GUI, Regression, smoke and sanity testing
+* I did the cross brower testing.
+* We are following agile scrum method and ateending all scrum events
+* Loding defects using JIRA tool.
+* Providing screenshots to identify and reproduce the bug in any environment.
+* In automation i am involve in scripting and validation for regression suites.
+* I performed automation using seelnium testng and java
+
+about framework
+---------------
+ 	We are using TDD framework with Selenium ,Java and TestNG / Selenium , Python, Pytest. This framework folder structure manily contains testcases folder,page object folder, testdata folder,utilities, configure,screenshot folder and reports folder.
+				(or)
+	We are using BDD framework with Selenium ,Java and TestNG,Cucumber / Selenium , Python, Pytest,Behave. This framework folder structure manily contains scenerios folder,step defination folder, testdata folder,utilities, configure and testrunner,screenshot folder and reports folder.
+
+
+
+
+
